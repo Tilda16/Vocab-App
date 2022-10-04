@@ -7,5 +7,17 @@
 .book_shuffle_bt {
 position: relative;
 width: 50%;
-float: right; 
+float: right;
+}
+
+.quick_study_bt {
+  position: relative;
+  width: 50%;
+  float: left;
+}
+
+.steady_run_bt {
+  position: relative;
+  width: 50%;
+  float: right;
 }
