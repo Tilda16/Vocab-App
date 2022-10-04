@@ -1,9 +1,11 @@
 .archive_shuffle_bt {
-  display: inline-block;
-  width: 50%
+  position: relative;
+  width: 50%;
+  float: left;
 }
 
 .book_shuffle_bt {
-  display: inline-block;
-  width: 50%;
+position: relative;
+width: 50%;
+float: right; 
 }
