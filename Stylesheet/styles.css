@@ -2,24 +2,28 @@
   position: relative;
   width: 50%;
   float: left;
+  display: flex;
 }
 
 .book_shuffle_bt {
 position: relative;
 width: 50%;
 float: right;
+display: flex;
 }
 
 .quick_study_bt {
   position: relative;
   width: 50%;
   float: left;
+  display: flex;
 }
 
 .steady_run_bt {
   position: relative;
   width: 50%;
   float: right;
+  display: flex;
 }
 
 .attic_bt {
@@ -27,4 +31,5 @@ float: right;
   width: 100%;
   align-items: center;
   display: flex;
+  flex-direction: column;
 }
