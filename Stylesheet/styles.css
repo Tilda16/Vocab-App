@@ -40,7 +40,6 @@ justify-content: center;
 
 .settings_bt {
   position: relative;
-  align-items: center;
   display: flex;
   flex-direction: column;
   width: 8%;
@@ -48,4 +47,5 @@ justify-content: center;
 
 .wrapper_bt {
   width: 100%;
+  align-items: center;
 }
