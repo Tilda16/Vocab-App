@@ -4,6 +4,7 @@
   float: left;
   display: flex;
   justify-content: center;
+  background-color: orange;
 }
 
 .book_shuffle_bt {
@@ -12,6 +13,7 @@ width: 50%;
 float: right;
 display: flex;
 justify-content: center;
+background-color: purple;
 }
 
 .quick_study_bt {
@@ -20,6 +22,7 @@ justify-content: center;
   float: left;
   display: flex;
   justify-content: center;
+  background-color: yellow;
 }
 
 .steady_run_bt {
@@ -28,6 +31,7 @@ justify-content: center;
   float: right;
   display: flex;
   justify-content: center;
+  background-color: blue;
 }
 
 .attic_bt {
@@ -36,6 +40,7 @@ justify-content: center;
   align-items: center;
   display: flex;
   flex-direction: column;
+  background-color: teal;
 }
 
 .settings_bt {
@@ -43,9 +48,11 @@ justify-content: center;
   display: flex;
   flex-direction: column;
   width: 8%;
+  background-color: pink;
 }
 
 .wrapper_bt {
   width: 100%;
   align-items: center;
+  background-color: red;
 }
