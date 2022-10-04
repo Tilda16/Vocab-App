@@ -21,3 +21,9 @@ float: right;
   width: 50%;
   float: right;
 }
+
+.attic_bt {
+  position: relative;
+  width: 100%;
+  align-items: center;
+}
