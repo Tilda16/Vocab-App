@@ -3,6 +3,7 @@
   width: 50%;
   float: left;
   display: flex;
+  justify-content: center;
 }
 
 .book_shuffle_bt {
@@ -10,6 +11,7 @@ position: relative;
 width: 50%;
 float: right;
 display: flex;
+justify-content: center;
 }
 
 .quick_study_bt {
@@ -17,6 +19,7 @@ display: flex;
   width: 50%;
   float: left;
   display: flex;
+  justify-content: center;
 }
 
 .steady_run_bt {
@@ -24,6 +27,7 @@ display: flex;
   width: 50%;
   float: right;
   display: flex;
+  justify-content: center;
 }
 
 .attic_bt {
