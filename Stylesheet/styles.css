@@ -1,3 +1,9 @@
-.archive_book_bts{
+.archive_shuffle_bt {
   display: inline-block;
+  width: 50%
+}
+
+.book_shuffle_bt {
+  display: inline-block;
+  width: 50%;
 }
