@@ -37,3 +37,11 @@ justify-content: center;
   display: flex;
   flex-direction: column;
 }
+
+.settings_bt {
+  position: relative;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
