@@ -55,3 +55,7 @@ background-color: purple;
 .column_1 {
   display: flex;
 }
+
+.column_2 {
+  display: flex;
+}
