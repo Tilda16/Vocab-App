@@ -1,6 +1,5 @@
 .archive_shuffle_bt {
   position: relative;
-  width: 50%;
   float: left;
   display: flex;
   justify-content: center;
@@ -9,7 +8,6 @@
 
 .book_shuffle_bt {
 position: relative;
-width: 50%;
 float: right;
 display: flex;
 justify-content: center;
@@ -18,7 +16,6 @@ background-color: purple;
 
 .quick_study_bt {
   position: relative;
-  width: 50%;
   float: left;
   display: flex;
   justify-content: center;
@@ -27,7 +24,6 @@ background-color: purple;
 
 .steady_run_bt {
   position: relative;
-  width: 50%;
   float: right;
   display: flex;
   justify-content: center;
@@ -36,7 +32,6 @@ background-color: purple;
 
 .attic_bt {
   position: relative;
-  width: 100%;
   align-items: center;
   display: flex;
   flex-direction: column;
@@ -56,4 +51,8 @@ background-color: purple;
   display: flex;
   justify-content: center;
   background-color: red;
+}
+
+.column_1 {
+  display: flex;
 }
