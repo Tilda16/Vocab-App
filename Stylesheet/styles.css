@@ -1,10 +1,19 @@
+.attic_bt {
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: teal;
+  padding: 5%;
+}
+
 .archive_shuffle_bt {
   position: relative;
   float: left;
   display: flex;
   justify-content: center;
   background-color: orange;
-  padding: 5%;
+  padding: 10%;
 }
 
 .book_shuffle_bt {
@@ -34,14 +43,6 @@ padding: 10%;
   padding: 10%;
 }
 
-.attic_bt {
-  position: relative;
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  background-color: teal;
-  padding: 10%;
-}
 
 .settings_bt {
   position: relative;
