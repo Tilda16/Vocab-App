@@ -42,7 +42,6 @@ background-color: purple;
   position: relative;
   display: flex;
   flex-direction: column;
-  width: 8%;
   background-color: pink;
 }
 
