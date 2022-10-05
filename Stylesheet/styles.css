@@ -4,6 +4,7 @@
   display: flex;
   justify-content: center;
   background-color: orange;
+  padding: 10%;
 }
 
 .book_shuffle_bt {
@@ -12,6 +13,7 @@ float: right;
 display: flex;
 justify-content: center;
 background-color: purple;
+padding: 10%;
 }
 
 .quick_study_bt {
@@ -20,6 +22,7 @@ background-color: purple;
   display: flex;
   justify-content: center;
   background-color: yellow;
+  padding: 10%;
 }
 
 .steady_run_bt {
@@ -28,6 +31,7 @@ background-color: purple;
   display: flex;
   justify-content: center;
   background-color: blue;
+  padding: 10%;
 }
 
 .attic_bt {
@@ -36,6 +40,7 @@ background-color: purple;
   display: flex;
   flex-direction: column;
   background-color: teal;
+  padding: 10%;
 }
 
 .settings_bt {
@@ -43,6 +48,7 @@ background-color: purple;
   display: flex;
   flex-direction: column;
   background-color: pink;
+  padding: 10%;
 }
 
 .wrapper_bt {
@@ -58,8 +64,4 @@ background-color: purple;
 
 .column_2 {
   display: flex;
-}
-
-span {
-  padding: 2%;
 }
