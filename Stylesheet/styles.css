@@ -59,3 +59,7 @@ background-color: purple;
 .column_2 {
   display: flex;
 }
+
+span {
+  padding: 2%;
+}
